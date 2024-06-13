@@ -1,0 +1,11 @@
+.main-bg-image {
+  background-color: #000;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+
+  /* Preserve aspect ratio */
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -999;
+}
