@@ -9,3 +9,7 @@
   min-height: 100%;
   z-index: -999;
 }
+
+body .container {
+  max-width: 720px;
+}
